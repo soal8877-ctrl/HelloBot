@@ -1,0 +1,17 @@
+{
+  "name": "hellobot",
+  "version": "1.0.0",
+  "description": "Простой Telegram-бот",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
